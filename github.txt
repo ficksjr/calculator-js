@@ -1,0 +1,6 @@
+git clone endereçoHTTPSDoProjeto
+git checkout develop
+git pull
+git checkout -b feature/NomeFuncionalidade
+git add . (Adiciona todas alterações de uma vez)
+git commit -m "Fiz a pagina de users"

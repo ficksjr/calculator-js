@@ -1,0 +1,25 @@
+{
+  "name": "calculator-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ficksjr/calculator-js.git"
+  },
+  "keywords": [
+    "calculator",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "ficksjr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ficksjr/calculator-js/issues"
+  },
+  "homepage": "https://github.com/ficksjr/calculator-js#readme"
+}
